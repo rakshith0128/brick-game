@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+  }
+  #gamescreen {
+    border: 1px solid black;
+  }
+  img{
+
+    border-radius: 2px;
+    height: 12x;
+    width: 12px;
+    display: none;
+}
+
+  
